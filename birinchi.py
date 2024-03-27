@@ -1,1 +1,1 @@
-print(54)
+print("Muzaffar aka zo`ri siz")
